@@ -1,3 +1,7 @@
+## Bloccit: a Reddit clone to teach the fundamentals of web development and Rails 4.
+
+Made with my mentor at [Bloc](http://bloc.io).
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
