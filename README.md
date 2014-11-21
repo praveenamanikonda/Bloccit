@@ -1,7 +1,8 @@
 ## Bloccit: a Reddit clone to teach the fundamentals of web development and Rails 4.
 
 Made with my mentor at [Bloc](http://bloc.io).
-praveena-bloccit : https://dashboard-next.heroku.com/apps
+
+http://praveena-bloccit.herokuapp.com/welcome/about
 
 == Welcome to Rails
 
