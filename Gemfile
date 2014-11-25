@@ -29,6 +29,7 @@ end
 
 gem 'jquery-rails'
 gem 'bootstrap-sass', '~>3.1.1'
+gem 'faker'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
