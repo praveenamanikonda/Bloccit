@@ -1,7 +1,7 @@
 Bloccit::Application.routes.draw do
-  get "welcome/about"
+  resources :posts
 
-  get "welcome/index"
+  get 'about' => 'welcome#about'
   root to: "welcome#index"
 
   # The priority is based upon order of creation:
